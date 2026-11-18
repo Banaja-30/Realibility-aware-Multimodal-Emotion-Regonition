@@ -1,0 +1,14 @@
+flask
+flask-cors
+torch
+torchvision
+transformers
+torchaudio
+librosa
+opencv-python
+numpy
+pandas
+scikit-learn
+joblib
+Pillow
+requests
